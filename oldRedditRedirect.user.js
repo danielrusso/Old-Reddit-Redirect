@@ -8,6 +8,7 @@
 // @exclude *out.reddit.com/*
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
+// @exclude *://*.reddit.com/message/*
 // @exclude *://mod.reddit.com/*
 // @run-at document-start
 // @grant        none
