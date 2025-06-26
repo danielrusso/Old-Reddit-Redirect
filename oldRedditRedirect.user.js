@@ -9,6 +9,7 @@
 // @exclude *://*.reddit.com/gallery/*
 // @exclude *://*.reddit.com/media*
 // @exclude *://*.reddit.com/message/*
+// @exclude *://chat.reddit.com/*
 // @exclude *://mod.reddit.com/*
 // @run-at document-start
 // @grant        none
